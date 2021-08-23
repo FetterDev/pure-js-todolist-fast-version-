@@ -46,3 +46,6 @@ padding-top: 2em;
     width: 40vw;
     border: none;
 }
+.done-task-style{
+    text-decoration: line-through;
+}
